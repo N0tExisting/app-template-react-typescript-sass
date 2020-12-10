@@ -1,6 +1,6 @@
 # Template Made By UnlockDep
 
-> React + Typescript +Sass
+> React + Typescript + Sass
 
 # New Project
 
