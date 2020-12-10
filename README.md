@@ -1,3 +1,7 @@
+# Template Made By UnlockDep
+
+> React + Typescript +Sass
+
 # New Project
 
 > ✨ Bootstrapped with Create Snowpack App (CSA).
