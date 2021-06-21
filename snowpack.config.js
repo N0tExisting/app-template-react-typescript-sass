@@ -10,10 +10,10 @@ module.exports = {
     '@snowpack/plugin-typescript',
     '@snowpack/plugin-sass',
   ],
-  install: [
+  env: {
     /* ... */
-  ],
-  installOptions: {
+  },
+  packageOptions: {
     /* ... */
   },
   devOptions: {
